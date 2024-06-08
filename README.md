@@ -1,0 +1,1 @@
+# Turning Quantum Noise on Its Head: Using the Noise for Diffusion Models to Generate Images
