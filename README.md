@@ -20,6 +20,7 @@ When computing the validation loss, this code will generate folders to store the
 ## Repository Structure
 - [**`DiffusionTrainingNotebook.ipynb`**](DiffusionTrainingNotebook.ipynb): The notebook containing the code for training a diffusion model given a classical or quantum noise schedule, as well as code for computing the validation loss.
 - [**`training_data/`**](training_data/): Directory containing the training data used for the quantum diffusion models. In particular, it contains subdirectories of the form `data_img{digit}`, and within each subdirectory, the training data for the specified number of pairs of Rx gates can be fonud in `data_img{digit}/num_revs_{num_revs}`.
+    - The PCA reduced images for each digit are found in `data_img{digit}/original_img{digit}`, and the actual versions of each digit are found in `data_img{digit}/actual_original_img{digit}`.
 - [**`README.md`**](README.md): Repository readme with setup and execution instructions.
 - [**`requirements.txt`**](requirements.txt): Requirements to be installed before running the Python scripts. These include pytorch for training the model and pytorch_fid for computing the FID scores.
 
