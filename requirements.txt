@@ -1,0 +1,10 @@
+numpy
+torch
+matplotlib
+scikit-learn
+tensorflow
+tqdm
+pytorch-fid
+scipy==1.11.1
+ray[tune]
+pillow
