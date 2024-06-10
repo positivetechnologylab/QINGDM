@@ -7,4 +7,4 @@ tqdm
 pytorch-fid
 scipy==1.11.1
 ray[tune]
-Pillow
+pillow
