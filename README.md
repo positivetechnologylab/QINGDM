@@ -1,8 +1,6 @@
 # Turning Quantum Noise on Its Head: Using the Noise for Diffusion Models to Generate Images
 
-This is Jason Han's submission (from Rice University) for the [2024 ACM SIGMETRICS Student Research Competition (SRC)](https://www.sigmetrics.org/sigmetrics2024/student_activities.html).
-
-***Our solution won the Undergraduate category in the 2024 ACM SIGMETRICS SRC, and will be proceeding to the SRC Grand Finals.***
+***This work won the Undergraduate category in the [2024 ACM SIGMETRICS Student Research Competition (SRC)](https://www.sigmetrics.org/sigmetrics2024/student_activities.html), and will be proceeding to the SRC Grand Finals.*** Access the abstract [**`here`**](QINGDM_SRC_Abstract.pdf) and the poster [**`here`**](QINGDM_SRC_Poster.pdf).
 
 ## Usage
 1. In your terminal, run `git clone https://github.com/positivetechnologylab/QINGDM.git` to clone the repository.
